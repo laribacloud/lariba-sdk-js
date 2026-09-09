@@ -11,7 +11,7 @@ This SDK allows applications to easily send events to the Lariba Cloud event ing
 The SDK is currently installed directly from GitHub.
 
 ```bash
-npm install github:laribacloud/lariba-sdk-js
+npm install github:node63labs/lariba-sdk-js
 ```
 
 ---
@@ -73,13 +73,13 @@ FastAPI backend powering the Lariba Cloud platform.
 
 ### API Specification
 
-https://github.com/laribacloud/lariba-spec
+https://github.com/node63labs/lariba-spec
 
 OpenAPI specification describing the Lariba Cloud API.
 
 ### Developer Documentation
 
-https://github.com/laribacloud/lariba-docs-site
+https://github.com/node63labs/lariba-docs-site
 
 Public developer documentation and integration guides.
 
